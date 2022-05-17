@@ -1,0 +1,18 @@
+{
+  "name": "mernex",
+  "version": "1.0.0",
+  "description": "Mern example",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd backend && node server.js\" \"cd my-app && npm start\""
+  },
+  "author": "Somanna Ramaiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsomanna/MernEx1/issues"
+  },
+  "homepage": "https://github.com/rsomanna/MernEx1#readme",
+  "dependencies": {
+    "concurrently": "^7.2.0"
+  }
+}
