@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/rsomanna/MernEx1#readme",
   "dependencies": {
-    "concurrently": "^7.2.0"
+    "concurrently": "7.5.0"
   }
 }
